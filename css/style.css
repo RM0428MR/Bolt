@@ -311,7 +311,6 @@ body {
   .sns__list {
     display: flex;
     flex-direction: column;
-    gap: 30px;
   }
 
   .sns__item {
